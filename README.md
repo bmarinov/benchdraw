@@ -1,7 +1,7 @@
 # benchdraw
-[![CircleCI](https://circleci.com/gh/cep21/benchdraw.svg)](https://circleci.com/gh/cep21/benchdraw)
-[![GoDoc](https://godoc.org/github.com/cep21/benchdraw?status.svg)](https://godoc.org/github.com/cep21/benchdraw)
-[![codecov](https://codecov.io/gh/cep21/benchdraw/branch/master/graph/badge.svg)](https://codecov.io/gh/cep21/benchdraw)
+[![CircleCI](https://circleci.com/gh/ttys3/benchdraw.svg)](https://circleci.com/gh/ttys3/benchdraw)
+[![GoDoc](https://godoc.org/github.com/ttys3/benchdraw?status.svg)](https://godoc.org/github.com/ttys3/benchdraw)
+[![codecov](https://codecov.io/gh/ttys3/benchdraw/branch/master/graph/badge.svg)](https://codecov.io/gh/ttys3/benchdraw)
 
 benchdraw allows you to make easy to read picture plots from data in Go's benchmark format, implemented in pure Go.
 
@@ -11,7 +11,7 @@ pictures for the most common cases that users can generate with minimal effort.
 # Install
 
 ```
-go get github.com/cep21/benchdraw
+go get github.com/ttys3/benchdraw
 ```
 
 # Usage
