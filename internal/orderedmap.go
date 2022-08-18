@@ -32,7 +32,7 @@ func (h *OrderedStringStringMap) String() string {
 // Contains returns true if this value == this key and this key exists.  Useful if v can be empty
 func (h *OrderedStringStringMap) Contains(k string, v string) bool {
 	current, exists := h.Values[k]
-	return exists && current == v
+	return exists && current == v && v != ""
 }
 
 // Insert a value into the map
